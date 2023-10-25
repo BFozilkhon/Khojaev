@@ -1,5 +1,15 @@
 [
   {
+    "name": "249 School",
+    "desc": "Using Reactjs, AntDesign and I18. 2023' Hackathon winner with my team, website created within 2 days",
+    "image": "249-school",
+    "category": "react",
+    "links": {
+      "view": "https://249-maktab.netlify.app",
+      "code": "https://github.com/NAbdullokh/249-web-site"
+    }
+  },
+  {
     "name": "Contact School",
     "desc": "Using Reactjs, AntDesign and Style Components. LC based multiple funtionalities by ScriptOne Team",
     "image": "contact",
