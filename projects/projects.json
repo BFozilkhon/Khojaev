@@ -1,12 +1,22 @@
 [
   {
+    "name": "Olmazor-edu",
+    "desc": "Educational System for Almazar district, along with user pages and admin dashboard functionalities. Worked as a Team Lead and Web Developer",
+    "image": "olmazor-edu",
+    "category": "react",
+    "links": {
+      "view": "https://olmazor-edu.uz",
+      "code": "https://github.com/BFozilkhon/olmazor-edu"
+    }
+  },
+  {
     "name": "249 School",
     "desc": "Using Reactjs, AntDesign and I18. 2023' Hackathon winner with my team, website created within 2 days",
     "image": "249-school",
     "category": "react",
     "links": {
       "view": "https://249-maktab.netlify.app",
-      "code": "https://github.com/NAbdullokh/249-web-site"
+      "code": "https://github.com/BFozilkhon/249-web-site"
     }
   },
   {
@@ -29,16 +39,16 @@
       "code": "https://github.com/BFozilkhon/polymergas"
     }
   },
-    {
-      "name": "SecondChange.kr",
-      "desc": "E-commerce website, using Reactjs, AntDesign and Style Components",
-      "image": "kr",
-      "category": "react",
-      "links": {
-        "view": "https://secondchancekz-uz.netlify.app",
-        "code": "https://github.com/BFozilkhon/Seckond-chance-kz"
-      }
-    },
+  {
+    "name": "SecondChange.kr",
+    "desc": "E-commerce website, using Reactjs, AntDesign and Style Components",
+    "image": "kr",
+    "category": "react",
+    "links": {
+      "view": "https://secondchancekz-uz.netlify.app",
+      "code": "https://github.com/BFozilkhon/Seckond-chance-kz"
+    }
+  },
   {
     "name": "WebBrain",
     "desc": "This is company project WebBrainAcademy web site.Team Project Github, React js, Styled Component ",
